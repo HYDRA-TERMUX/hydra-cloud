@@ -34,7 +34,7 @@ banner() {
   echo "  ██╔══██║  ╚██╔╝  ██║  ██║██╔══██╗██╔══██║"
   echo "  ██║  ██║   ██║   ██████╔╝██║  ██║██║  ██║"
   echo "  ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝"
-  echo -e "${NC}${PURPLE}          Cloud Server  ·  Powered by Termux${NC}"
+  echo -e "${NC}${PURPLE}          Cloud Server  ·  Powered by HYDRA${NC}"
   echo ""
 }
 
