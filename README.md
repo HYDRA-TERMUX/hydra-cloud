@@ -94,7 +94,7 @@ The setup installs Python, Flask, and all dependencies automatically.
   HYDRA is running on your network!
 
   This phone:   http://127.0.0.1:8888
-  WiFi LAN:     http://192.168.1.105:8888
+  WiFi LAN:     http://192.168.X.XXX:8888
 ```
 
 ### 5 — Open in any browser
