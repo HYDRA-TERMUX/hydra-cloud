@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="./Screenshot/hydra_banner.jpg" width="100%"/>
+<img src="./screenshots/hydra_banner.jpg" width="100%"/>
 
 <br/>
 <div align="center">
